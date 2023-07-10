@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div>
-      Fala Garato
+    <div className="">
+      Fala Garoto
     </div>
     
   );
